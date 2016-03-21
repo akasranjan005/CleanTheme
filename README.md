@@ -1,2 +1,2 @@
 # CleanTheme
-A simple and Neat Theme made in Bootstrap
+A simple and Clean Elegant Theme made in Bootstrap
